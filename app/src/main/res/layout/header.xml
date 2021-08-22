@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:orientation="vertical"
+    android:background="@drawable/header_backround">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/circlepp"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:layout_marginTop="39dp"
+        android:src="@drawable/ic_baseline_person_24"
+        app:civ_border_color="#004159"
+        app:civ_border_width="3dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvnavheadername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Hoşgeldiniz"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/circlepp" />
+
+    <TextView
+        android:id="@+id/tv_navview_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text=""
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvnavheadername" />
+
+    <ProgressBar
+        android:id="@+id/header_progress"
+        android:indeterminateTint="#00415D"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="@+id/circlepp"
+        app:layout_constraintEnd_toEndOf="@+id/circlepp"
+        app:layout_constraintStart_toStartOf="@+id/circlepp"
+        app:layout_constraintTop_toTopOf="@+id/circlepp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

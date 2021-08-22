@@ -1,0 +1,331 @@
+<resources>
+    <string name="app_name">degismedendegisin</string>
+    <string name="girisyap">Hesabın zaten var mı? <b>Giriş yap.</b></string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kullanim">Kaydol Seçeneğine Tıklayarak Değişmeden Değişin\'in <b>Kullanım Hüküm ve Koşulları\'nı</b> kabul etmiş olursun.</string>
+    <string name="kayitol">Hesabın yok mu? <b>Kaydol</b></string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="fonksiyon">\' Fonkskiyon yoksa güzel hissetmezsiniz\'</string>
+    <string name="fonksiyontitle"><b>Fonksiyon</b></string>
+    <string name="fomksiyonInfo">Nefes alamayan koku duyusunu hissetmeyen tatlı yüzünü azalan devamlı sinüzit ataklarına neden olan, burunda kabuklanma yapan Rinoplasti ameliyatı yüzü güzelleştirmiyor. Kişiyi mutsuz ediyor.</string>
+    <string name="buruntitle"><b>Yüzle Uyumlu Burun</b></string>
+    <string name="burunInfo">Yüze uyumlu olmayan burun düzü güzelleştirmez dünyanın en güzel tasarlanmış burnunu uyumsuz bir yüzde düşündüğün zaman o burun görünür olmaya başlayacaktır ben konuşurken karşındakinin gözüne bakarım karşındaki konuşurken dudaklarına bakarım gözden dudağa geçerken o burun ben buradayım diyorsa o burun o yüze ait değilmişiz olayı uyandırır o yüzü güzelleştirmeyecektir.</string>
+    <string name="burunInfo2">(Aşırı kalkık yada düşük, kavisli ya da kemerli, burun ucu sivri ya da çimdiklenmiş gibi dar ya da top gibi geniş. Bu da yüzü güzelleştirmez.)</string>
+    <string name="yuztitle"><b>Burna Uyumlu Yüz</b></string>
+    <string name="yuzInfo">Rinoplasti yapıldı. Ama yine de güzel tam uyumlu değil. O halde yüzde doğal değişiklikler yapılabilir mi? mesela çene ucuna yönelik bir müdahale, alın bölgesinde dolgunlaştırması, göz altı çukurlarının düzeltilmesi. En az söz edilen ama bir o kadar da önemli bir durum öyle ki bilim ve sanatın bir üst noktada buluştuğu Rinoplasti ameliyatlarında bence sanatsal bakış burada önem kazanıyor.Bu konuyu da hekiminizle konsülte edebilmeli yani konuşabilmelisiniz. Sonrasında tercih size kalmalı. Yaptırırsınız ya da yaptırmazsınız. Unutmayın. Ameliyat öncesi bütün seçenekleri değerlendirirseniz pişman olmazsınız</string>
+    <string name="randevutitle"><b>1. Muayene randevusu alın</b></string>
+    <string name="randevuInfo1">Burun içi muayenesi olacaksınız nefes almanız da problem olmasa dahi bu muayene önemli.</string>
+    <string name="randevuInfo2">Fotoğrafımız çekilecek. Bu önemli çünkü; hem planlama aşamasında hem de amelyat sırasında bu fotoğraflara ihtiyacımız var.</string>
+    <string name="randevuInfo3">Görüşme esnasında daha önce ameliyat olmuş ve sizinle benzer işlemlerin yapılacağı hastaların öncesi sonrası fotoğraflarını göreceksiniz.</string>
+    <string name="randevuInfo4">Sizin fotoğraflarınız üç boyutlu simülasyon yapılacak.</string>
+    <string name="randevuInfo5">Ameliyat olmaya karar verirseniz asistanlarım uygun tarihi belirleyecek.</string>
+    <string name="estetiktitle"><b>2. Burun estetiği ameliyatı nerede oluyor</b></string>
+    <string name="estetikInfo1">Burun Estetiği ameliyatlarını genel anestezi altında ve tam teşekküllü hastane ortamı da yapıyorum.</string>
+    <string name="estetikInfo2">Antalya\'da memorial Antalya hastanesi;</string>
+    <string name="estetikInfo3">İstanbul\'da memorial Bahçelievler hastanesi ilk tercihim.</string>
+    <string name="onceIlactitle"><b>3. Ameliyat öncesi ilaç kullanımı</b> </string>
+    <string name="onceIlactInfo">Kullandığınız tüm ilaçları mutlaka belirtin. Aspirin ve türevi ilaçlar bir hafta öncesinden kesilmelidir.</string>
+    <string name="siklustitle"><b>4. Menstrüel siklus döneminde ameliyat olur mu?</b> </string>
+    <string name="siklusinfo">Menstrüel siklus döneminde ameliyat olunabilir. Ameliyatın hemen sonrasında burun ve çevresinde oluşan ödem beklenenden biraz daha fazla olabilir.</string>
+    <string name="sigaratitle"><b>5.Sigara kullanımı</b> </string>
+    <string name="sigaraInfo">Ameliyat sonrası en az üç hafta sigara kullanmamanız gerekir. (Aslında hiç kullanmayın)</string>
+    <string name="griptitle"><b>6. Ameliyatın hemen öncesinde nezle grip olursam veya nezle grip gibi hissedersem ne olur?</b> </string>
+    <string name="gripInfo">Böyle bir durumda Milat öncesi muayene ve kan tahlilleri önemlidir. Muayene ve tahlillerde problem yoksa ameliyatı yapıyoruz.</string>
+    <string name="gelirkentitle"><b>7. Hastaneye gelirken;</b> </string>
+    <string name="gelirkenInfo">Rahat kıyafetler tercih edin baştan geçirilen kıyafetler yerine önden düğmeli kıyafetler tercih edin takı-piercing çıkartın.</string>
+    <string name="aclikTitle"><b>8. Ameliyat öncesi açlık gerekir mi?</b></string>
+    <string name="aclikInfo">Evet. Ameliyat öncesi en az 6 saat açlık ve susuzluk gerekir. Ameliyatınız sabah saatlerinde ise gece 24:00’ten sonra hiçbir şey yemeyin, su içmeyin.</string>
+    <string name="tahlilTitle"><b>9. Ameliyat öncesi tahlil ve tetkik yapılacak mı?</b></string>
+    <string name="tahlilInfo">Özel bir durum veya kronik bir hastalık yoksa; ameliyat günü ameliyat saatinden 2:00 3 saat önce hastanede olmanız gerekir. Tetkikler yapılıp anestezi doktorunun değerlendirmesine sunulur.</string>
+    <string name="anestesiTitle"><b>10. Anesteziden korkuyorum</b></string>
+    <string name="anestesiInfo">Anestezi korkusu neden olduğunu bilmiyorum ama bizim toplumumuzda daha fazla “ya uyuyamazsam, her şeyi hissedersem” diyen de var “ya uyanamazsam” diyen de…</string>
+    <string name="anestesiInfo2">Ameliyat öncesi gerekli tetkiklerimizin yapılıyor ve anestezi doktoru bunları değerlendiriyor. Her anestezi için kendi formunda risk sınıfını belirliyor. Bu risk herhangi bir gün de trafiğe çıkmanızdan fazla    riskli değil. Fazlaysa, zaten hastayı bilgilendiriyoruz ve ameliyattan vazgeçiyoruz.</string>
+    <string name="anesteziInfo3">Anestezi sırasında bir takım ilaçlar verilerek uykuya benzer bir hissizlik ve uğursuzluk aile oluşturuluyor. Siz uyurken de bütün yaşamsal fonksiyonlarınız bir monitörden takip ediliyor genel anestezi süresince hiçbir şekilde ağrı duymuyorsunuz. Yine annesiz doktoru istediği zaman sizi uyandırabiliyor.</string>
+
+    <!--Chat Form-->
+    <string name="hc_waiting_message">Müsait bir temsilci aranıyor. \nLütfen bekleyin.</string>
+    <string name="hc_offline_message">Üzgünüz, şuanda çevrimdışıyız. 🙈 Tüm sorularınızı, iletişim bilgilerinizi veya geri bildirimlerinizi buradan göndermekten çekinmeyin, en kısa sürede size geri döneceğiz. 😇</string>
+
+    <!--Chat messages menu-->
+    <string name="hc_menu_copy">Kopyala</string>
+    <string name="hc_menu_copy_link">Linki kopyala</string>
+    <string name="hc_menu_open">Aç</string>
+    <string name="hc_menu_view_image">Resmi görüntüle</string>
+    <string name="hc_menu_item_file">Dosya</string>
+    <string name="hc_menu_item_photo">Fotoğraf</string>
+    <string name="hc_download">İndir</string>
+    <string name="hc_share">Paylaş…</string>
+    <string name="hc_menu_end_chat">Bu sohbeti sonlandır</string>
+
+    <!--Chats list-->
+    <string name="hc_support_team">%s</string>
+    <string name="hc_support_team_placeholder">Destek</string>
+    <string name="hc_error_no_chats_found">Sohbet bulunamadı</string>
+
+    <!--Chat-->
+    <string name="hc_attachment_video">Video</string>
+    <string name="hc_attachment_file">Dosya</string>
+    <string name="hc_attachment_image">Resim</string>
+    <string name="hc_message_hint">Mesaj yazın</string>
+
+    <plurals name="hc_typing">
+        <item quantity="zero">yazıyor…</item>
+        <item quantity="one">yazıyor…</item>
+        <item quantity="two">yazıyor…</item>
+        <item quantity="few">yazıyor…</item>
+        <item quantity="many">yazıyor…</item>
+        <item quantity="other">yazıyor…</item>
+    </plurals>
+
+    <string name="hc_download_file_title">Dosyayı indir?</string>
+    <string name="hc_download_ok">Evet</string>
+    <string name="hc_download_no">Hayır</string>
+    <string name="hc_download_loading_complete">Yükleme tamamlandı 👌\nİndirilenler klasörüne kaydedildi👌</string>
+    <string name="hc_loading">Yükleniyor…</string>
+
+    <string name="hc_department_picker_hint">Choose a department</string>
+    <string name="hc_copied">Kopyalandı</string>
+    <string name="hc_sent_at">at</string>
+    <string name="hc_permissions_ok">TAMAM</string>
+    <string name="hc_permissions_cancel">İptal</string>
+    <string name="hc_permissions_content">Dosya paylaşımını iyileştirmek için dosya sistemine ve kamera erişimine izin verin</string>
+    <string name="hc_messages_updating">Güncelleniyor…</string>
+    <string name="hc_button_send">Gönder</string>
+    <string name="hc_more_agents">%d daha</string>
+    <string name="hc_new_chat_arrived">Yeni sohbet geldi</string>
+
+    <!--Tech-->
+    <string name="hc_you">Sen</string>
+    <string name="hc_someone">Birisi</string>
+    <string name="hc_tech_client">Müşteri</string>
+    <string name="hc_tech_chat_rated_poor">Kötü</string>
+    <string name="hc_tech_chat_rated_average">Ortalama</string>
+    <string name="hc_tech_chat_rated_great">Mükemmel</string>
+    <string name="hc_tech_chat_rating_sent">Lütfen bu sohbeti değerlendirin</string>
+    <string name="hc_tech_chat_rating_sent_push">Lütfen bu sohbeti değerlendirin</string>
+    <string name="hc_tech_chat_rated">Sohbet değerlendirildi %s</string>
+    <string name="hc_tech_chat_marked_by">Sohbet durumu %s tarafından %s</string>
+    <string name="hc_tech_chat_marked_as">Sohbet durumu %s</string>
+    <string name="hc_tech_someone_closed_chat">%s sohbeti sonlandırdı</string>
+    <string name="hc_closed">Kapalı</string>
+    <string name="hc_chat_closed">Bu sohbet sonlandırıldı.</string>
+
+    <string-array name="hc_chat_statuses">
+        <item>Yeni</item>
+        <item>Açık</item>
+        <item>Sürüyor</item>
+        <item>Beklemede</item>
+        <item>Kapalı</item>
+    </string-array>
+
+    <!--Notifications-->
+    <string name="hc_notification_channel_text">Destek mesajları bildirimlerine izin ver</string>
+
+    <!--Pre-Chat Form-->
+    <string name="hc_pre_chat_message">Genellikle hemen yanıt veririz. Yoğunluk varsa birkaç saat içinde yanıt veririz. Lütfen kendinizi bize tanıtın.</string>
+    <string name="hc_pre_chat_continue">Devam</string>
+    <string name="hc_pre_chat_name">İsim</string>
+    <string name="hc_pre_chat_email">Email</string>
+    <string name="hc_pre_chat_company">Şirket</string>
+    <string name="hc_pre_chat_phone_number">Telefon Numarası</string>
+    <string name="hc_pre_chat_error_required">%s gerekli.</string>
+    <string name="hc_pre_chat_gdpr">Bu metni okudum ve kabul ediyorum %s</string>
+    <string name="hc_pre_chat_gdpr_link_text">Gizlilik Politikası</string>
+    <string name="hc_pre_chat_error_pattern">%s geçersiz.</string>
+
+    <!--In App Errors -->
+    <string name="hc_error_no_internet_connection">Lütfen internet bağlantınızı kontrol edin</string>
+    <string name="hc_error_handler_unknown">Bir şeyler yanlış gitti. Lütfen daha sonra tekrar deneyiniz</string>
+    <string name="hc_error_chat_deleted">Bu sohbet temsilci tarafından sonlandırıldı. Yönlendiriliyorsun</string>
+    <string name="hc_error_file_size">16 MB\'den büyük dosyaları gönderemezsiniz.</string>
+    <string name="hc_error_file_cant_open">Bu dosya açılamıyor</string>
+    <string name="hc_error_no_camera_exists">Kamera için Uygulama yok!</string>
+
+    <!--File Picker-->
+    <string name="hc_permission_file_picker_rationale">Dosyalara erişmek için depolama izni gereklidir.</string>
+    <string name="hc_no_files_found">Dosya bulunamadı</string>
+    <string name="hc_attachments_title_text" formatted="false" translatable="false">(%d/%d)</string>
+    <string name="hc_attachments_num" formatted="false" translatable="false">%d</string>
+    <string name="hc_picker_title">Bir seçenek seçin</string>
+    <string name="hc_select_photo_text">Bir medya seçin</string>
+    <string name="hc_select_doc_text">Bir dökuman seçin</string>
+    <string name="hc_videos">Videolat</string>
+    <string name="hc_images">Görüntüler</string>
+    <string name="hc_all_photos">Tüm Fotoğraflar</string>
+    <string name="hc_all_videos">Tüm Videolar</string>
+    <string name="hc_all_files">Tüm Dosyalar</string>
+    <string name="hc_done">Başarılı</string>
+    <string name="hc_downloading">İndiriliyor…</string>
+    <string name="hc_debug">Hata ayıklama</string>
+    <string name="hc_send_intent_title">Kime :</string>
+
+    <!--Rating View-->
+    <string name="hc_rating_title">Destek deneyiminizi nasıl değerlendirirsiniz?</string>
+    <string name="hc_chat_rating_values_poor">Kötü</string>
+    <string name="hc_chat_rating_values_average">Ortalama</string>
+    <string name="hc_chat_rating_values_great">Mükemmel</string>
+    <string name="hc_view_article">Makaleyi görüntüle</string>
+
+    <!--End chat-->
+    <string name="hc_end_chat_dialog_message">Bu konuşmaya devam edemezsiniz.</string>
+    <string name="hc_end_chat_dialog_title">Emin misin?</string>
+    <string name="hc_end_chat_dialog_ok">Sohbeti Bitir</string>
+    <string name="hc_end_chat_dialog_cancel">İptal</string>
+
+
+    <string name="fotogragbir">Fotoğrafların aynı açıdan çekilmiş ve aynı kalitede olması gerekir. Öncesi – sonrası <b>eşit şartlarda</b> karşılaştırılabilmelidir; </string>
+    <string name="fotogragiki">Biri paraflaşlar ve DSLR kamera ile çekilmiş</string>
+    <string name="fotoveya">Veya</string>
+    <string name="fotografüc">Biri sağ aşağıya, biri sol yukarıya bakan;</string>
+    <string name="fotoveyaiki">Veya</string>
+    <string name="fotografdort">Işık değerleri aynı olmayan;</string>
+    <string name="fotografbes"><b>Fotoğrafların yanıltıcı olabileceğini unutmayın!</b></string>
+    <string name="fotografaltı">Öyle ki fotoğraf kalitesine bağlı olarak ameliyatı fotoğraflarla yapmış görünmek bile mümkün</string>
+    <string name="fotografyedi">Öncesi sonrası fotoğraflar eşit şartlarda çekilmiş olmalı. Aksi yanıltır.</string>
+
+
+    <string name="ameliyatbir"><b>Ben de ameliyat olsam nasıl hissederdim, neler düşünürdüm. Kendimi sizin yerinize koydum. Kurgu da olsa hissettiklerim ve aklıma gelenler şunlar:</b></string>
+    <string name="bir"><b>1.</b> Ameliyathane soğuk bir ortam. Hakikaten öyleymiş.</string>
+    <string name="iki"><b>2.</b> Yani… Çok da büyük bir hastalığım yok aslında. Olmasa mıydım acaba?.</string>
+    <string name="üc"><b>3.</b> Bir seferde olayım da kurtulayım. İnşallah güzel ve nefes alabilen bir burnum olur.</string>
+    <string name="dört"><b>4.</b> Doktoruma çok güveniyorum. (Bu gerçekten olması gereken. Aksi halde asla bu ameliyat olunmaz.)</string>
+    <string name="bes"><b>5.</b>  Normalde müsamaha göstersem bile, şu anda hiç espri kaldıracak halde değilim.</string>
+    <string name="alti"><b>6.</b> Ameliyata girecek hemşire şu mu acaba? (Ameliyathanedeki hastayla teması olan ya da olabilecek herkesin hastaya kendini tanıtması o kadar önemliymiş ki. Oraya yatınca daha iyi anladım.)</string>
+    <string name="yedi"><b>7.</b> Kızım bugün okuldaki yemeği yer mi acaba?</string>
+    <string name="sekiz"><b>8.</b> Ağrı çok olacak mı? Doktor olmaz demişti ama… Gerçi doktorların ağrı konusunda söylediğine de ne kadar inanılır.</string>
+    <string name="dokuz"><b>9.</b> Susadım ama su içesim de yok.</string>
+    <string name="on"><b>10.</b> Ne kadar sürer acaba? Aman ne kadar sürerse sürsün, ben uyuyacağım nasıl olsa.</string>
+    <string name="onbir"><b>11.</b> Ameliyathane Türkiye’nin en güvenilir ortamı şu anda derken Eyüp Hoca ne demek istedi ya? Doğru aslında…</string>
+    <string name="oniki"><b>12.</b> Bizim doktor nerde?? Hah şurdaymış…</string>
+
+    <string name="sorularbaslik"><b>Sizlerin de sorduğu en çok sorulan bazı sorular;</b></string>
+    <string name="sorubir"><b>Burun ameliyatlarından korkuyorum (Komplikasyonlar nelerdir?)</b></string>
+    <string name="sorubircevap">Bence bu gayet normal. Hem sosyal açıdan hem de fizyolojik açıdan ne kadar önemli bir ameliyat olduğu ortada. Bu noktada kar-zarar hesabı yapın: ameliyat olursanız hayatınızda neler değişecek? Bunu hekiminizle bütün ayrıntılarıyla konuşun. Burun estetiği anlatılırken az yerde komplikasyonlardan söz edilir. Dikensiz gül bahçesi mi? Değil </string>
+    <string name="soruiki"><b>Peki komplikasyonlar nelerdir?</b></string>
+    <string name="soruikisorubir"><b>Kanama:</b></string>
+    <string name="soruiki_kanamacevap">Sevimsiz bir komplikasyon. Ameliyattan 1 saat sonra da olabilir, 1 hafta sonra da olabilir. Tamam, sevimsiz bir komplikasyon ama bir kulak burun boğaz uzmanı tarafından başedilmesi kolay bir durum. Meydana geldiği zaman sanılanın aksine hayati tehlike riski yok denilecek kadar azdır.</string>
+    <string name="soruikisoruiki"><b>Nefes alma problemleri, baş ağrısı ve sinüzit:</b></string>
+    <string name="soruiki_nefesalma_cevap">Sineşi denilen burun içi yapışıklıklar veya kıkırdak kemik eğrilikleri, burun eti büyümeleri bu duruma sebep olabilir. İkinci bir ameliyat gerekli olabilir.</string>
+    <string name="soruikisoruüc"><b>Estetik sorunlar ve deformitiler:</b></string>
+    <string name="soruiki_deformitter">Bunların derecesi ve nasıl bir müdahale ile düzeltilebileceği önemli.</string>
+    <string name="soruikisorudort"><b>Tekrar ameliyat veya müdahale riski:</b></string>
+    <string name="soruiki_tekrarameliyat">Çeşitli bilimsel çalışmalarda ikinci bir ameliyat riski için oranlar verilmiş. Bu yayınlarda %5 ten başlayıp %18 e varan sonuçlar var. Benim gördüğüm kadarıyla %2-3 gibi bir grupta düzeltme yapılabilir. Bu düzeltme en fazla 15 dakikalık küçük müdahaleler olabilir. Eğer bu şekilde olmazsa problem var demektir ve revizyon burun ameliyatından söz etmek gerekir.</string>
+
+
+    <string name="burunucudusermibaslik"><b>•	Burun Ucu Düşer mi?</b></string>
+    <string name="burunucudusermi">Burun ucunu taşıyan kıkırdak bağlar; burun iskeletinin doğal anatomisine uygun olarak korunur veya yeniden oluşturulursa bu problem yaşanmaz. Burada anahtar cümle «doğal anatomiye uygun burun iskeleti»</string>
+
+    <string name="acıkteknikbaslik"><b>•	Açık Teknik mi Kapalı Teknik mi?</b></string>
+    <string name="acıkteknik">Burun ucundaki ciltte görünür kesiler «açık teknik ameliyatlarda» oluyor. Burada anahtar cümle şu «Cerrahın her iki tekniği de uygulayabilmesi ve hangi hastaya hangi teknik uygunsa onu tercih etmesi gerekir.»</string>
+    <string name="acıkteknikiki">Kapalı teknikte ciltte kesi olmaması avantaj. Fakat daha da önemlisi, benim tercih ettiğim Kapalı Teknik Micro Hybrid Rhinoplasty’de en az kesi, en az doku hasarı olması avantaj. Doku bütünlüğünü bozup, yeniden yapma olmadığı için iyileşmenin daha hızlı olduğunu düşünüyorum.</string>
+    <string name="acıkteknikuc">Daha hızlı iyileşme ile beraber, sonuç da daha çabuk görülmüş oluyor. Burun ucundaki o kesi de her ne kadar uzun süre sonra kaybolsa dahi; uzun süre o kesinin görüntüsü beni rahatsız ediyor.</string>
+    <string name="acıkteknikdort">Ben her ameliyatta kapalı gibi başlıyorum. Burun içerisindeki her noktayı değerlendirip, istediğim sonucu elde edebiliyorsam kapalı sonlandırıyorum. Bazen kapalı olarak kesin sonuca ulaşamadığım durumlarda açık tekniğe dönebiliyorum. Ama ilk tercihim (%80’in üzerinde) kapalı ameliyat yapmaktan yana.</string>
+
+    <string name="burunkemikleribaslik"><b>•	Burun Kemiklerini Kırıyor musunuz?</b></string>
+    <string name="burunkemigibir">Ameliyat sırasında burun kemiklerinin şekillendirilmesi gerektiğini herkes biliyor. «Kırmak» kelimesi kontrolsüz bir işlemi çağrıştırıyor ve biraz da kaba bir terim.</string>
+    <string name="burunkemigiiki">Burun kemiği şekillendirilirken keski, osteotom, törpü, mikromotor, ultrasonik kemik kesici vs. kullanılabilir. Bunların hepsini elinin altında tutmak cerraha bir kolaylık sağlıyor ve tercihini hastanın durumuna göre yapabiliyor.</string>
+    <string name="burunkenigiuc">Sadece küçük bir kemeri olan hastada törpü yerine osteotom kullanılması gereksizdir. Çok eğri bir burunda elimizin altında powered instruments denilen mikromotor veya ultrasonik kemik kesicilerin kullanılması bize büyük avantaj sağlar.</string>
+
+
+    <string name="piezobaslik"><b>•	Piezo Rinoplasti veya Ultrasonik Kemik Kesici ile Rinoplasti Nedir?</b></string>
+    <string name="piezobir">Bunlar yukarıda da belirttiğim gibi elinizin altında bulunması gereken aletler. Fakat, sanılanın aksine bir ameliyat tekniği ismi değil. Daha önce de belirttiğim gibi uygun hastada uygun aletlerin kullanılması gerekir. Tek bir alette ısrarcı olmamak gerekir.</string>
+    <string name="pizeoiki">Bir çin atasözü der ki: «If all you have is a hummer, everything look like a nail.»(Sahip olduğun sadece bir çekiç ise, her şey çivi olarak görünür.)</string>
+
+    <string name="tamponbaslik"><b>•	Tampon kullanıyor musunuz?</b></string>
+    <string name="tamponbir">Benim en sık tercihim: Hiç tampon kullanmamak. İkinci sırada silikonlar var; bunları inceltilmiş olarak kullanıyorum. Ameliyat sonrası 2-5. günde çıkarıyorum. Bunlar gerçekten çok ağrılı değil ama çıkarılırken burnunuzdan kocaman bir sümük çıkmış hissi veriyor.</string>
+
+    <string name="revizyonsubtitlebir"><b>1. Neden ikinci bir ameliyat gereksinimi olur?</b></string>
+    <string name="revizyonsubtitleiki"><b>2. Daha önce burun ameliyatı geçirenlerde nasıl bir süreç izleniyor?</b></string>
+    <string name="revizyonsubtitleuc">3.	Revizyon burun ameliyatında burna şekil verme.</string>
+
+    <string name="revizyonzormudur"><b>Revizyon rinoplasti zor mudur?</b></string>
+    <string name="revizyonzormudurbir">•	Daha önce bir veya birden fazla burun ameliyatı geçiren ve istenilen sonucun elde edilemediği durumlarda yapılan burun estetiği ameliyatına revizyon rinoplasti diyoruz. Farklı isimlendirmeler var: ikincil rinoplasti, sekonder rinoplasti gibi.</string>
+    <string name="revizyonzormuduriki">•Genel olarak bu ameliyatların ilk ameliyattan daha zor olduğu kabul edilir. Çünkü yapısı değiştirilmiş ve başarılı olamamış bir burun iskeleti var, ona adapte olmuş bir cilt söz konusu ve ameliyata başladığınız zaman sürprizlerle karşılaşmanız söz konusu.</string>
+    <string name="revizyonzormuduruc">•Ama eğer ameliyata yeterli hazırlık yapılarak girilirse bu ameliyatların ilk ameliyatlardan farkı yok. Yeterli hazırlıktan kastım şu:</string>
+    <string name="revizyonzormuucbir"><b>1.	Problemler net ve somut olarak ortaya konulmalı</b></string>
+    <string name="revizyonzormuuciki"><b>2.	Beklentiler gerçekçi olmalı</b></string>
+    <string name="revizyonzormuucuc"><b>3.	Başta kıkırdak dokusu olmak üzere yeterli doku olmalı</b></string>
+
+    <string name="revizyonuzunyazi">Hastaların anlamakta en çok zorlandığı konu bu oluyor. Aslında konu çok basit. Biz burun ameliyatı sırasında doğala en yakın anatomiyi oluşturmaya çalışıyoruz. Bunun için de başta kıkırdak dokusu olmak üzere bazı dokulara ihtiyacımız var. İlk ameliyatlarda bu kıkırdak rezervi «septum» denilen burun orta çatısında mevcut. Fakat revizyon ameliyatlarında buradaki kıkırdak dokusu bazen yetmiyor. Bu durumda ya hazır kıkırdak denilen kadavradan elde edilip çeşitli işlemlerden geçirilerek elde edilen biraz maliyetli ama güvenilir materyaller kullanılabilir veya vücudumuzda bulunan başka yerlerdeki kıkırdak dokulardan elde edilebilir. Kulak arkası bunun için bir alternatif. Ama ben kulak kıkırdağını pek kullanmıyorum. Çünkü yeterli olmuyor ve kıvrımlı yapısı nedeniyle kullanışlı da değil. Bir diğer seçenek meme çizgisi hizasından kaburgadan yaklaşık 3 cm’lik bir kıkırdak almak. Bu bence en güvenilir ve en kullanışlı yol.</string>
+    <string name="revizyonuzunyaziiki">Eğer yeterli hazırlık yapılarak bu ameliyatlara girilirse yapılan ameliyatın zorlukları minimuma inmiş oluyor.</string>
+
+
+    <string name="nedenrevizyonbaslik"><b>Neden revizyon burun ameliyatı gerekli olur?</b></string>
+    <string name="nedenrevizyonbir">•	Şunu çok rahat söyleyebilirim: yeni tekniklerle revizyon rinoplasti ihtiyacı azaldı.</string>
+    <string name="nedenrevizyoniki">•	Eskiden yapılan ameliyatlarda aşırı çıkarım söz konusuydu. Bunlar burun sırtının fazla oyuk, burun ucunun aşırı kalkık olduğu kendini eden ameliyatlar. Yine burun ucunun çimdiklenmiş gibi olduğu, asimetriler olan burun ucu problemleri de az değil.</string>
+    <string name="nedenrevizyonuc">•	Son zamanlarda yapılan ameliyatlarda bu problemler daha az. Fakat şimdi de fazla greft yani doku konulması veya dikişlerle burun ucunun fazla sıkılmasına bağlı problemler söz konusu.</string>
+    <string name="nedenrevizyondort">•	En sık gördüğüm problemler arasında; Kemik kemerinin alınıp kıkırdağın alınmadığı burnun yandan bakıldığında papağan gagası gibi göründüğü, burun sırtının sivri kaldığı, burun ucunun asimetrik olduğu ameliyatlar var. Çoğunlukla da bunlar birlikte olabiliyor.</string>
+
+
+    <string name="kaburgadankıkırdaktitle"><b>Revizyon rinoplasti ameliyatı için kaburgadan kıkırdak alınması</b></string>
+    <string name="kaburgadanbir">•	Burun estetiğinde doğal anatomiye ve cerrahi dokulara saygılı davranıp yeniden bir şekillendirme yapıyoruz. İlk ameliyatta septum denilen orta çatıdaki kıkırdak dokusu bizim için yeterli olabiliyor. Ama revizyon ameliyatlarda bu rezerv çoğunlukla yitirilmiş oluyor.</string>
+    <string name="kaburgadanik">•	Vücudumuzun başka bir yerinden kıkırdak almak gerekiyor. Kulak arkasından bu kıkırdak alınabilir. Hastalar «kulağımızdan da olmayalım» diye yarı şaka yarı ciddi bir tepki gösteriyorlar. Bu işlem uygun kesilerle yapılırsa bu durum kulakta görülen bir deformateye yol açmıyor. Ben kulak kıkırdağını kullanışlı bulmuyorum. Kıvrımlı ve düzensiz yapısı nedeniyle pek tercih etmiyorum.</string>
+    <string name="kaburgadanüc">•	Kaburgadan kıkırdak almak, istenilen iskelet yapıyı oluşturmak için çok kullanışlı. Sağ meme başının yaklaşık 5 cm altı hizasından yaklaşık 2-3 cm’lik bir kesi yapıyoruz. Bu daha sonra iz problemi oluşturmuyor. Buradak yaklaşık 3 cm çapında bir kıkırdak dokusu alıp bunu burun iskeletini oluşturmada kullanıyoruz.</string>
+    <string name="kaburgadandort">•	İz kadınlarda bikini çizgisinin altında kalıyor. Uygun kapatıldığında haftalar-aylar sonra belli belirsiz biz iz kalıyor. Uygun teknik kullanıldığında ağrı da olmuyor.</string>
+
+
+    <string name="konkatitle"><b>Konka (burun eti) alınır mı?</b></string>
+    <string name="kucultulurmu"><b>Küçültülür mü?</b></string>
+    <string name="gozardı">Bu, göz ardı edilen çok önemli bir konu.</string>
+    <string name="kucultulurken">Burun eti küçültülürken;</string>
+    <string name="kucultulurkenbir">1- Klasik cerrahi lateralizasyon küçültme</string>
+    <string name="kucultulurkeniki">2- Radyofrekans ile küçültme</string>
+    <string name="kucultulurkenuc">3- Laser ile küçültme</string>
+    <string name="kucultulurkendort">Yöntemleri kullanılır. İlk ikisinde tekrar etme olasılığı laser’e göre çok fazla.</string>
+    <string name="kucultulurkenbes">Laser ile burun etinin mukozası yani dış yapısı kontrollü bir şekilde büzüştürülür ve etkisi hemen görülür. Radyofrekansta 3-4 hafta sonra görülür.</string>
+    <string name="kucultulurkendalti">Laser ile küçültmede konkanın havayı nemlendirme ve ısıtma fonksiyonu daha çok korunmuş olur.</string>
+    <string name="kucultulurkenyedi">Mukozanın korunmasına bağlı olarak geniz akıntısı varsa azalır. Ameliyat sonrası erken dönemde olan kabuklanmalar çok daha az olur.</string>
+
+
+    <string name="olmadimbir">Ameliyat sırasında burun üst kısmındaki <b>“kıkırdak – kemik – doku bütünlüğü”</b>nün korunması erken iyileşmeyi sağlar.</string>
+    <string name="olmadimiki"><b>Neden ameliyat sırasında yaptığım burunlara böyle dokunuyorum?</b></string>
+    <string name="olmadımuc"><b>Ameliyat sırasında kemik – kıkırdak – yumuşak doku ve cilt bütünlüğünü bozmamaya çalışıyorum.</b></string>
+    <string name="olmadımdort">Burun üstündeki cildi kaydırınca altındaki doku bütünlüğü olabildiğince sağlam. Bunun 2 tane önemli avantajı var:</string>
+    <string name="olmadımbes">1- Var olanı en az müdahale ile sadece problemli olanı düzeltmek amacım. Yani en doğal sonucu elde etmek bu şekilde mümkün.</string>
+    <string name="olmadımalti">2- Dokulara ne kadar az hasar verirseniz o kadar çabuk iyileşiyor.</string>
+    <string name="olmadımyedi">Bilinen bir gerçek var ki vücutta kesilen veya ayrılan dokular doğal yapısındaki ile tamamen aynı iyileşmiyor.</string>
+
+
+    <string name="agrimolurmu"><b>Ağrım olur mu?</b></string>
+    <string name="agrımolurmusubtitle">Burun estetiği ameliyatlarından sonra ağrı artık olmuyor. Bu, ya hiç oluşmuyor ya da uygun ilaçlarla engelliyoruz.</string>
+    <string name="agrımolurmubir">•	Ameliyattan ilk çıktığınız anda burundan nefes alıp verebileceksiniz. Sonra kabul ve pıhtılar birikecek, şişlikler artacaktır.</string>
+    <string name="agrımolurmuiki">•	Ameliyattan ilk çıktığınızda hem şişlikler hem de bantların etkisiyle burun şeklinizin görüntüsüne aldanmayın.</string>
+    <string name="agrımolurmuuc">•	Ameliyattan sonraki gün mutlaka duş alın. Bu sizi rahatlatacaktır.</string>
+    <string name="agrımolurmudort">• Burun delikleri içinde kabuk ve pıhtılar birikecek. Pamukla kulak çubuğunu oksijenli suya batırıp, burun deliklerini temizlemeye çalışın. Kulak çubuğunu canınız yanmayacak kadar burun içine sokabilirsiniz.</string>
+    <string name="agrımolurmubes">•	Tampon kullanmadığım için ilk gün sızıntıların olması çok normal.</string>
+    <string name="agrımolurmualti">• Eğer kullanıldı ise burun içi silikonlar ameliyat sonrası 2-6 gün içinde alınacaktır. Silikon alma işlemi muayenehanede yapılan, ağrısız bir işlemdir. Burnunuzdan kocaman sümük çıkıyormuş hissi verir.</string>
+    <string name="agrımolurmuyedi">• Burnunuzda silikonlar olduğu zamanlar hafif nezle, grip hali olur. Bu vücudun silikonlara verdiği cevaptan kaynaklanan bir durumdur, silikonlar alındıktan kısa süre sonra geçecektir.</string>
+    <string name="agrımolurmusekiz">• Silikonlar alındıktan hemen sonra rahat nefes alıp vermeye başlarsınız. Ancak kabuk ve akıntılar nedeni ile bazen burnunuz tıkanabilir. Bunu önlemek için size verilen ilaçları düzenli kullanmanız gerekmektedir. Hastanede verilmeye başlanacak nemlendirici damla kabuklanmayı önlemede yardımcı olur.</string>
+    <string name="agrımolurmudokuz">• Ameliyat sonrası evde kullanmanız gereken ilaçları, taburcu olmadan önce asistanım size anlatacak.</string>
+    <string name="agrımolurmuon">• Yaklaşık 10 gün boyunca nezle-grip gibi hissedeceksiniz. Hapşırırken ağzınızı açık tutun.</string>
+    <string name="agrımolurmuonbir">• 10 gün boyunca başınız yüksek yatın. 2 yastık kullanabilirsiniz.</string>
+    <string name="agrımolurmuoniki">• Yaklaşık 1 ay boyunca gözlük kullanmamanız gerekiyor. (Bu sürelerde mini değişiklikler olursa size ileteceğim.) Önceki dönemlerde bu süre 3-6 ay kabul edilirdi. Micro Hybrid Rhinoplasty tekniğimizde 1 ay yeterli.</string>
+    <string name="agrımolurmuonuc">• 2 ay boyunca güneş koruyucu krem kullanın. (Dikkat: Güneşe çıkmayın demiyorum! Güneş kremi kullanmak yeterli.)</string>
+    <string name="agrımolurmuondort">• 10-14 gün sonra yüzmek serbest.</string>
+    <string name="agrımolurmuonbes">• Burnunuzda darbe gelmeyecek sporlara 2-3 hafta sonra başlayabilirsiniz.</string>
+    <string name="agrımolurmuonalti">• Burun üzerindeki plastik kalıp 5-7 gün içinde alınıp üzerine ten renginde ince bantlar yapıştırılır. 4-7 gün süre ile bu bantlar burun üzerinde kalır. Yurt dışından gelen veya 2. hafta kontrole gelemeyecek olan hastalarım bu ten rengi bantları kendileri çıkarabilirler.</string>
+    <string name="agrımolurmuonyedi"><b>• Özetle iki hafta sonrasında ameliyat öncesine göre daha iyi bir görüntü elde edilir.</b></string>
+    <string name="agrımolurmuonsekiz">•	Özetle iki hafta sonrasında ameliyat öncesine göre daha iyi bir görüntü elde edilir.</string>
+    <string name="agrımolurmuondokuz">•	Silikonlar ve kalıp alındıktan sonra burun iki gün dokunmaya karşı hassas olacaktır.</string>
+    <string name="agrımolurmuyirmi">• Çok nadir bazı durumlar harici burun masajı yapmanıza gerek yoktur. İhtiyaç duyulursa nasıl ve nereye masaj yapılacağını biz size söyleyeceğiz.</string>
+
+    <string name="ozgecmisbir">İstanbul Üniversitesi İstanbul Tıp Fakültesi’nde tıp eğitimini tamamladı. Tıp Fakültesi eğitimi sırasında ABD’de Columbia Üniversitesi’nde Genel Cerrahi stajı yaptı.</string>
+    <string name="ozgecmisiki">Tıp Doktoru ünvanını aldıktan sonra İstanbul üniversitesi Temel Bilimler Bölümünde çalıştı. Daha sonra İstanbul Bakırköy Dr.Sadi Konuk Eğitim ve Araştırma Hastanesi’nde Kulak Burun Boğaz ve Baş ve Boyun Cerrahisi ihtisasını tamamladı.</string>
+    <string name="ozgecmisüc">Uzmanlık sonrası Burun ve Yüz Estetiği alanında yoğunlaşarak bu konuda çeşitli çalışmalarda bulundu.</string>
+    <string name="ozgecmisdort">» ABD’de Dr.Niamtu Kliniği’nde yüz germe ve yağ dokusu enjeksiyonu teknikleri ile ilgili eğitim ve çalışmalara katıldı.</string>
+    <string name="ozgecmisbes">» Almanya Erlangen’de Burun ve Yüz Estetiği; Rinoplasti, yüz germe, blefaroplasti ve kulak estetiği üzerine kadavra çalışmalı eğitim aldı.</string>
+    <string name="ozgecmisalti">» Burun Okulu kurucusu ve Türkiye’de balon sinoplasti ameliyatının ilk uygulayıcısı olan Dr.Süreyya Şeneldir ile Burun Estetiği, Revizyon Burun Estetiği ve Balon Sinoplasti üzerine eğitim aldı ve çalışmalarda bulundu.</string>
+    <string name="ozgecmisyedi">» Almanya Stuttgart’ta Dr.Wolfgang Gubisch’ten Rinoplasti eğitimi aldı</string>
+    <string name="ozgecmissekiz">» Almanya Frankfurt’ta Medikal Estetik Sertifikasyonu; ameliyatsız yüz gençleştirme uygulamaları, botulinum toksini uygulamaları, yüz dolguları ve mezoterapi uygulamaları eğitimi aldı.</string>
+    <string name="ozgecmisdokuz">» Ankara GATA’da Horlama ve Uyku Apnesi Kursu</string>
+    <string name="ozgecmison">» İzmir Dokuz Eylül Üniversitesi’nde Endoskopik Sinüs Cerrahisi Kadavra uygulamalı eğitimine katıldı.</string>
+    <string name="ozgecmisonbir">» AO Maksillofasyal Cerrahi Uluslararası Sertifikası</string>
+    <string name="ozgecmisoniki">» Bulgaristan Sofia’da Dr.Nikolay Serdev ile iple yüz asma ve ameliyatsız yüz gençleştirme çalışmalarında bulundu.</string>
+    <string name="ozgecmisonuc">» Almanya Münih’te Dr.Matthias Winter’den Otoplasti (Kepçe kulak estetiği) eğitimi aldı </string>
+    <string name="ozgecmisondort">» Giovanni Botti ve Mario Caravello ile Orta Yüz Germe ve Blefaroplasti cerrahisi Kadavra çalışmalı eğitimine katıldı.</string>
+    <string name="ozgecmisonbes">» Dermatokozmetoloji alanında kendini kabul ettirmiş Dr. Uliana Gout ile Botulinum Toksin Uygulamalar, Dolgu, PRP ve antiaging uygulamaları eğitimi aldı.</string>
+    <string name="ozgecmisonalti">» Almanya Bielefeld’de Dr.Nanna Y.Schürer ile ameliyatsız yüz gençleştirme ve endüstrinin güncel uygulamaları üzerine çalışmalarda bulundu.</string>
+
+
+</resources>

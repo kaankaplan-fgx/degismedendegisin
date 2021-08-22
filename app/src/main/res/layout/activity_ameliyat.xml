@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context=".activity.AmeliyatActivity">
+
+
+    <ImageView
+        android:id="@+id/ayaktamavi"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/ameliyatmavi"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/kesik"></ImageView>
+
+    <ImageView
+        android:id="@+id/ameliyatmavi"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+
+        android:scaleType="fitXY"
+        android:src="@drawable/kesikameliyat"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/ayaktamavi"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnAmeliyatOldum"
+        android:layout_width="0dp"
+        android:layout_height="74dp"
+        android:layout_marginBottom="120dp"
+        android:background="@drawable/button1"
+        android:text="Ameliyat oldum"
+        android:textColor="@color/splashbackround"
+        app:layout_constraintBottom_toBottomOf="@+id/ayaktamavi"
+        app:layout_constraintEnd_toEndOf="@+id/ayaktamavi"
+        app:layout_constraintStart_toStartOf="@+id/ayaktamavi" />
+
+    <Button
+        android:id="@+id/btnİstiyorum"
+        android:layout_width="0dp"
+        android:layout_height="74dp"
+        android:layout_marginBottom="120dp"
+        android:background="@drawable/button1"
+        android:text="ameliyat olmak istiyorum"
+        android:textColor="@color/splashbackround"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="@+id/ameliyatmavi"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/ayaktamavi" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dr. Eyüp Bozkurt tarafından"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/btnAmeliyatOldum"
+        app:layout_constraintEnd_toEndOf="@+id/btnAmeliyatOldum"
+        app:layout_constraintStart_toStartOf="@+id/btnAmeliyatOldum" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.KvkkActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="A. Giriş"
+                android:textSize="25sp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_gravity="left"
+                android:padding="15dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1.Uygulamamızın ziyaretçilerinin gizliliği bizim için çok önemlidir ve kendimizi onu korumaya adadık. Bu ilke, kişisel bilgileriniz ile ne yapacağımızı açıklar."
+                android:textSize="18sp"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="10dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="B. Kişisel bilgilerin toplanması"
+                android:textSize="25sp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_gravity="left"
+                android:padding="15dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1. IP adresi, android versiyonu ile işletim sistemi dahil telefonunuz hakkında bilgiler;"
+                android:textSize="18sp"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="2. Referans kaynak, ziyaret süresi, sayfa görüntülemeleri ve uygulamada gezinme yolları dahil uygulamayı ziyaretiniz ve kullanımınız ile ilgili bilgiler;"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="3. Uygulamamıza kayıt olmak için verdiğiniz telefon numaranız gibi bilgiler;"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="4. Örneğin adınız, profil resminiz, telefon numaranız, uygulamamızda profil oluştururken verdiğiniz bilgiler;"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="5. E-postalarımız ve/veya bültenlerimize abone olurken verdiğiniz ad ve e-posta adresi gibi bilgiler;"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="6. Uygulamamızdaki hizmetleri kullanırken girdiğiniz bilgiler;"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="7. Ne zaman, ne sıklıkta ve hangi koşullarda kullandığınız dahil, uygulamamızı kullanırken oluşturulan bilgiler;"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="8. Adınız, adresiniz, telefon numaranız, e-posta adresiniz uygulamamızdaki servisleri kullanırken gönderilen bilgiler."
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="9. Kullanıcı adınız, profil resminiz ve gönderinizin içeriği dahil, uygulamamızı kullanarak internette paylaşmak amacıyla uygulamamıza gönderdiğiniz bilgiler;"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="10. İletişim içerikleri ve üst veriler dahil, uygulamamız veya e-posta yoluyla gönderdiğiniz her türlü iletişim içerikleri;"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="11. Bize gönderdiğiniz diğer tüm kişisel bilgiler."
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="Bize başka bir kişinin kişisel bilgilerini iletmeden önce, o kişinin bilgilerin paylaşılacağına ve bu ilkeye uygun olarak işleneceğine dair onayını almanız gerekir."
+                android:textColor="@color/black"
+                android:layout_marginLeft="10dp"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="C. Kişisel bilgilerinizin kullanılması"
+                android:textSize="25sp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_gravity="left"
+                android:padding="15dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="Uygulamamızın üzerinden bize gönderilen kişisel bilgiler bu ilkede veya sitenin ilgili sayfalarında belirtilen amaçlar için kullanılacaktır. Kişisel bilgilerinizi şu amaçlar için kullanabiliriz:"
+                android:textColor="@color/black"
+                android:layout_marginLeft="10dp"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="1. Uygulamamızı ve işletmemizi yönetmek;"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="2. Uygulamamızı sizin için kişiselleştirmek;"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="3. Uygulamamızın hizmetlerini kullanmanızı sağlamak;"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="4. Sizinle pazarlama harici ticari iletişim kurmak;"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="5. Size özellikle talep ettiğiniz e-posta bildirimlerini göndermek;"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="6. Talep ettiyseniz size e-posta bültenimizi göndermek (bülteni istemiyorsanız bize her an bildirebilirsiniz);"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="7. Size işletmemiz veya özenle seçilmiş üçüncü taraf işletmeler tarafından, işinize yarayacağını düşündüğümüz pazarlama içeriklerini özellikle kabul ettiğiniz takdirde posta, e-posta veya benzer teknolojilerle göndermek (pazarlama içeriklerini istemiyorsanız bize her an bildirebilirsiniz);"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="8. Üçüncü taraflara kullanıcılarımız hakkında istatistiksel bilgiler sunmak (ancak bu üçüncü taraflar bu bilgileri kullanarak hiçbir kullanıcının kimliğini belirleyemezler);"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="9. Uygulamamızla ilgili sizin tarafınızdan veya sizinle ilgili yapılan şikayetleri ve talepleri çözmek;"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="10. Uygulamamızı güvenli tutmak ve dolandırıcılığı önlemek;"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="11. Uygulamamızı, ilgili şartlar ve koşullara uygun olarak kullanıldığını doğrulamak ve,"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="12. diğer amaçlar için."
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="Uygulamamızda yayınlanması için kişisel bilgiler gönderirseniz, bu bilgileri yayınlarız veya bize sunduğunuz lisans kapsamında kullanabiliriz. Açıkça izin vermediğiniz sürece kişisel bilgilerinizi hiçbir üçüncü tarafa veya diğer üçüncü tarafların doğrudan pazarlama bölümlerine iletmeyeceğiz."
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:layout_marginLeft="10dp"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="D. Kişisel bilgilerinizin paylaşılması"
+                android:textSize="25sp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_gravity="left"
+                android:padding="15dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="Kişisel bilgilerinizi çalışanlarımıza, görevlilerimize, sigortacılarımıza, profesyonel danışmanlarımıza, ajanslarımıza, bu ilkede belirtilen amaçlar gerektirdiği sürece iletebiliriz. Kişisel bilgilerinizi şu durumlarda paylaşabiliriz:"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:layout_marginLeft="10dp"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="1. Yasal olarak gerektiği durumlarda;"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="2. Devam eden veya olası yasal süreçlerle ilgili olarak;"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="3. Kendi yasal haklarımızı korumak, uygulamak ve savunmak için;"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="4. Kişisel bilgilerin açıklanması için mahkemeye başvurabileceğine inandığımız bir kişiye, başvurması halinde mahkemenin veya yetkili kişi ve kurumların kişisel bilgilerin açıklanması yönünde karar vereceğine dair makul görüşlerimiz olması halinde. "
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="Bu ilkede belirtilen durumlar haricinde, kişisel bilgilerinizi üçüncü taraflarla paylaşmayız. "
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="E. Kişisel bilgilerinizin saklanması"
+                android:textSize="25sp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_gravity="left"
+                android:padding="15dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="1. Bölüm E, kişisel bilgilerin saklanması ve silinmesi ile ilgili yasal yükümlülüklerimizi yerine getirdiğimizden emin olmak için tasarlanan veri saklama ilkeleri ve prosedürlerini belirtir."
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="2. İşlediğimiz kişisel bilgiler, belirtilen amaç veya amaçların gerektirdiğinden daha uzun süre saklanamaz."
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="3. Madde E-2 yi etkilememek üzere, aşağıda belirtilen kategorilere dahil olan verileri kişisel bilgileri genellikle aşağıda belirtilen tarih/saatte sileriz:"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="4.kişisel veri türü 2022/01/01 tarihinde ve 10.00AM da silinecektir."
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="5. Bölüm G deki diğer hükümlere bağlı olmaksızın kişisel veri içeren dokümanları (elektronik dokümanlar dahil) saklarız:"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="6. Yasal olarak gerektiği durumlarda;"
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="7. Dokümanların süren veya olası yasal süreçlerle ilgili olduğunu düşündüğümüz hallerde."
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="F. Kişisel bilgilerinizin güvenliği"
+                android:textSize="25sp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_gravity="left"
+                android:padding="15dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="1. Kişisel verilerinizin kaybolması, istismar edilmesi veya değiştirilmesini önlemek için makul teknik ve organizasyonel önlemler alırız."
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="2. Tüm kişisel bilgilerinizi güvenli (şifre ve güvenlik duvarı korumalı) sunucularda saklarız."
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="3. İnternet üzerinden veri aktarımının internetin doğası gereği güvenli olmadığını ve internet üzerinden gönderilen verilerin güvenliğini garanti edemeyeceğimizi kabul etmiş sayılırsınız."
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="4. Uygulamamıza erişmek için kullandığınız şifreyi gizli tutmak sizin sorumluluğunuzdadır, sizden şifrenizi vermenizi istemeyiz (uygulamamıza giriş yapmanız haricinde)."
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="G. Değişiklikler"
+                android:textSize="25sp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_gravity="left"
+                android:padding="15dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="Bu ilkeyi zaman zaman değiştirerek yeni versiyonu uygulamamızda yayımlayabiliriz. Bu ilkedeki olası değişiklikleri anladığınızdan emin olmak için bu sayfayı zaman zaman kontrol etmelisiniz. Bu ilkedeki değişiklikleri size e-posta veya uygulamamızdaki özel mesajlaşma sistemi yoluyla bildirebiliriz."
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="H. Haklarınız"
+                android:textSize="25sp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_gravity="left"
+                android:padding="15dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="1. Kimliğinizi kanıtlayan belgeler sunmanız bu amaçla genellikle pasaportunuzun noter onaylı bir kopyasını ve mevcut adresinizi gösteren bir faturayı kabul ederiz})."
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="Talep ettiğiniz bilgileri yasaların izin verdiği ölçüde saklayabiliriz. Bize, herhangi bir anda kişisel bilgilerinizi pazarlama amaçları ile kullanmamamız talimatını verebilirsiniz.Pratikte, kişisel bilgilerinizi pazarlama amaçları ile kullanmamızı önceden açıkça kabul etmiş olursunuz ya da biz size kişisel bilgilerinizi pazarlama amaçlarıyla kullanılmamasını tercih etme seçeneği sunarız."
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="I. Üçüncü taraf servisler"
+                android:textSize="25sp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_gravity="left"
+                android:padding="15dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="Uygulammızda üçüncü taraf sitelere bağlantılar ve detaylar bulunur. Üçüncü tarafların gizlilik ilkeleri ve uygulamaları üzerinde herhangi bir kontrol yetkimiz yoktur ve bunlardan sorumlu tutulamayız."
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="J. Bilgilerin güncellenmesi"
+                android:textSize="25sp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_gravity="left"
+                android:padding="15dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="Hakkınızdaki kişisel bilgilerin düzeltilmesi veya güncellenmesi gerektiğinde lütfen bize bildirin."
+                android:textColor="@color/black"
+                android:layout_gravity="left"
+                android:padding="5dp"
+                />
+
+
+
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

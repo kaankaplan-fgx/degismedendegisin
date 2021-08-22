@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "152933642212",
+    "project_id": "degismedendegisin-ec507",
+    "storage_bucket": "degismedendegisin-ec507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152933642212:android:673705f18794a6235021f1",
+        "android_client_info": {
+          "package_name": "com.motive.degismedendegisin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152933642212-e1qro9j03b9hecnueabq3tco85d9cv35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.motive.degismedendegisin",
+            "certificate_hash": "57aac1670668e27253442e8c7a8654d856549a76"
+          }
+        },
+        {
+          "client_id": "152933642212-otu9ojvs64csllngo9r2u2834htke9ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW_3TfXeBcDLL62UQHFdpv3G-Og3ANcbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152933642212-otu9ojvs64csllngo9r2u2834htke9ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

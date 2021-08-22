@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="25dp"
+    tools:context=".fragment.DoktorumFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Op. Dr. Eyüp Bozkurt"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:textColor="@color/splashbackround"
+                ></TextView>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/actor"
+                android:text="@string/ozgecmisbir"
+                android:textColor="#002158"
+                android:textSize="18sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/actor"
+                android:text="@string/ozgecmisiki"
+                android:textColor="#002158"
+                android:textSize="18sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/actor"
+                android:text="@string/ozgecmisüc"
+                android:textColor="#002158"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="EĞİTİM VE SERTİFİKALAR"
+                android:textSize="23sp"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textColor="@color/splashbackround"
+                ></TextView>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/actor"
+                android:text="@string/ozgecmisdort"
+                android:textColor="#002158"
+                android:textSize="18sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/actor"
+                android:text="@string/ozgecmisbes"
+                android:textColor="#002158"
+                android:textSize="18sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/actor"
+                android:text="@string/ozgecmisalti"
+                android:textColor="#002158"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/actor"
+                android:text="@string/ozgecmisyedi"
+                android:textColor="#002158"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/actor"
+                android:text="@string/ozgecmissekiz"
+                android:textColor="#002158"
+                android:textSize="18sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/actor"
+                android:text="@string/ozgecmisdokuz"
+                android:textColor="#002158"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/actor"
+                android:text="@string/ozgecmison"
+                android:textColor="#002158"
+                android:textSize="18sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/actor"
+                android:text="@string/ozgecmisonbir"
+                android:textColor="#002158"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/actor"
+                android:text="@string/ozgecmisoniki"
+                android:textColor="#002158"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/actor"
+                android:text="@string/ozgecmisonuc"
+                android:textColor="#002158"
+                android:textSize="18sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/actor"
+                android:text="@string/ozgecmisondort"
+                android:textColor="#002158"
+                android:textSize="18sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/actor"
+                android:text="@string/ozgecmisonbes"
+                android:textColor="#002158"
+                android:textSize="18sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/actor"
+                android:text="@string/ozgecmisonalti"
+                android:textColor="#002158"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>
