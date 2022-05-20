@@ -28,7 +28,7 @@ class DegismedenDegisin : Application() {
         var hcUser = HCUser.Builder().withName("Misafir").build()
 
         HelpCrunch.initialize("degismedendegisin",
-            2,"b+UhhhOKXEkUN7MnAl69tR1QAoU0Lil92IHNAVwLV/HBbUZ9c66gBWo4RKhjmlVCrlSSBOXQdf/FcaCPkNc0ig==",hcUser,options)
+            2,TOKEN,hcUser,options)
 
 
 
